@@ -1,0 +1,4 @@
+ True |        : Work on my Marcom site        
+ False |      figure out this delete situation       
+ False |   Finish my task manager   
+ True | Show Corbin my work 
